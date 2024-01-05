@@ -1,3 +1,3 @@
 # Portfolio-Optimization
 
-Final year project for my undergrad
+Final year project during my undergraduation
